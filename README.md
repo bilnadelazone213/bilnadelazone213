@@ -84,6 +84,6 @@
   
 ## <b>:gear: &nbsp;GitHub Statistics</b>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nabilouchaou&layout=compact&true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bilnadelazone213&layout=compact&true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
