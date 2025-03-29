@@ -26,7 +26,7 @@
 
 <hr/>
 
-## Programming lenguages & Other
+## Programming languages & Other
 
 - ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-323330.svg?&style=flat&logo=javascript&logoColor=%23F7DF1E)&nbsp;
 ![TypeScript](https://img.shields.io/badge/TYPESCRIPT-%23007ACC.svg?&style=flat&logo=typescript&logoColor=white)&nbsp;
